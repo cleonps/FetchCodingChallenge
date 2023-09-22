@@ -1,0 +1,38 @@
+{
+  "configurations" : [
+    {
+      "id" : "C8E26640-F7EF-472E-B72C-8B3E7BDCA86F",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : {
+      "targets" : [
+        {
+          "containerPath" : "container:FetchCodingChallenge.xcodeproj",
+          "identifier" : "50F7DD4D2AB8B57C0098DD1E",
+          "name" : "FetchCodingChallenge"
+        }
+      ]
+    },
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:FetchCodingChallenge.xcodeproj",
+      "identifier" : "50F7DD4D2AB8B57C0098DD1E",
+      "name" : "FetchCodingChallenge"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:FetchCodingChallenge.xcodeproj",
+        "identifier" : "50F7DD632AB8B57D0098DD1E",
+        "name" : "FetchCodingChallengeTests"
+      }
+    }
+  ],
+  "version" : 1
+}

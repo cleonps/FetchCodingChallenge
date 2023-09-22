@@ -1,0 +1,15 @@
+/* 
+  Localizable.strings
+  FetchCodingChallenge
+
+  Created by Christian León Pérez Serapio on 18/09/23.
+  
+*/
+
+"mealsTitle" = "Desserts";
+"errorAlertTitle" = "Error";
+"retryButton" = "Retry";
+"cancelButton" = "Cancel";
+
+"ingredientsLabel" = "Ingredients:\n%@";
+"instructionsLabel" = "Instructions: %@";
